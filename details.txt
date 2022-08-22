@@ -1,0 +1,4 @@
+itemname=Toy,
+itemprice=300,
+itemquantity=10
+itemname= Car,itemprice=320,itemquantity=5itemname= Car,itemprice=320,itemquantity=5
